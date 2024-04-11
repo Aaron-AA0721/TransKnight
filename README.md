@@ -2,7 +2,7 @@
 ### Version 0.1.0
 
 This is a repository for releasing versions of TransKnight.<br>
-Assets are not releases becausd there are copyrighted assets
+Assets are not releases because there are copyrighted assets
 
 Windows: https://connecthkuhk-my.sharepoint.com/:f:/g/personal/aaronaa3_connect_hku_hk/Ej2sPXWEPg9Dnt26tX8aiZUBXUaD2v4dwVvSxArhSVb7UQ?e=pKBPCS
 <br>
