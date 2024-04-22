@@ -2,10 +2,15 @@
 ### Version 0.1.0
 
 This is a repository for releasing versions of TransKnight.<br>
-Assets are not releases because there are copyrighted assets
+Assets are not released because of copyrighted assets<br>
 
 Demo and Trailer: https://connecthkuhk-my.sharepoint.com/:f:/g/personal/u3608647_connect_hku_hk/Egdyl27nApJIsp7cv2nEb2UB7Kjnj-fFFEwVIOBV-6kUTw?e=e9aMJN
 <br>
+
+Installation & Execution:<br>
+Download the zip file of the version for your operating system. Unzip the zip file. <br>
+Double-click "TransKnight" to run the game.<br>
+Click "Start" in the main menu of the application to start the game.<br>
 
 
 Possible problem on Mac:<br>
