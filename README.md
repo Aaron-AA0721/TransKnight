@@ -12,6 +12,12 @@ Download the zip file of the version for your operating system. Unzip the zip fi
 Double-click "TransKnight" to run the game.<br>
 Click "Start" in the main menu of the application to start the game.<br>
 
+Source Code: [Only viewable by course instructors]<br>
+How to use source code files:<br>
+    `Download and unzip COMP3329ProjectGroup30SourceCode.zip`<br>
+    `Open UnityHub, click "Add" to add the project`<br>
+    `Open the project using Unity 2022.3.17f1`<br>
+
 
 Possible problem on Mac:<br>
 Click "Open Anyway" to continue
