@@ -21,4 +21,4 @@ All the scenes are in Assets/Scenes and all scripts are in Assets/Self-Made Asse
 
 Possible problem on Mac:<br>
 Click "Open Anyway" to continue
-<img width="1047" alt="temp" src="https://github.com/Aaron-AA0721/COMP3329Project/assets/116526310/245249ae-bb20-428b-9603-a425af1ca715">
+<img width="1047" alt="temp" src="https://github.com/Aaron-AA0721/TransKnight/assets/116526310/006bada6-1845-4553-a5ed-8219addbca0e">
